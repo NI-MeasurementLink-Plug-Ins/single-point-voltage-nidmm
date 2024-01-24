@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "singlePointVoltage"
+version = "24.0"
+description = "MeasurementLink measurement that acquires a single voltage point."
+authors = ["National Instruments"]
+
+[tool.poetry.dependencies]
+python = "^3.9,<3.13"
+nidmm = "^1.4.4"
+ni-measurementlink-service = "^1.2.0"
+click = "^8.1.6"
+
+[tool.poetry.group.build.dependencies]
+pyinstaller = "^5.13.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.4"
+ni-python-styleguide = "^0.4.1"
+pytest-cov = "^4.1.0"
+
+[tool.black]
+line-length = 100
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

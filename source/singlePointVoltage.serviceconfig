@@ -1,0 +1,20 @@
+{
+  "services": [
+    {
+      "displayName": "Single Point Voltage",
+      "serviceClass": "singlePointVoltage_Python",
+      "descriptionUrl": "",
+      "providedInterfaces": [
+        "ni.measurementlink.measurement.v1.MeasurementService",
+        "ni.measurementlink.measurement.v2.MeasurementService"
+      ],
+      "path": "singlePointVoltage.exe",
+	  "annotations":
+      {
+        "ni/service.description": "Read single point voltage measurement. Supports DMM.",
+        "ni/service.collection": "Group 1: Static and Waveform Voltage",
+        "ni/service.tags": [ "digital multimeter", "DMM", "read voltage" ]
+      }
+    }
+  ]
+}
