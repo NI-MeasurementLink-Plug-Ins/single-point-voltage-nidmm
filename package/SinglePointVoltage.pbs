@@ -1,0 +1,1247 @@
+﻿<Solution xmlns:i="http://www.w3.org/2001/XMLSchema-instance" z:Id="i1" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/" xmlns="http://schemas.datacontract.org/2004/07/NationalInstruments.PackageBuilder.Engine">
+    <Name>SinglePointVoltage</Name>
+    <SourceItems>
+        <SourceItem z:Id="i2">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\_asyncio.pyd</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i3">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\_bz2.pyd</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i4">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\_ctypes.pyd</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i5">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\_decimal.pyd</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i6">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\_hashlib.pyd</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i7">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\_lzma.pyd</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i8">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\_multiprocessing.pyd</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i9">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\_overlapped.pyd</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i10">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\_queue.pyd</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i11">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\_socket.pyd</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i12">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\_ssl.pyd</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i13">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\_uuid.pyd</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i14">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-core-console-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i15">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-core-datetime-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i16">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-core-debug-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i17">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-core-errorhandling-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i18">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-core-file-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i19">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-core-file-l1-2-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i20">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-core-file-l2-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i21">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-core-handle-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i22">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-core-heap-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i23">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-core-interlocked-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i24">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-core-libraryloader-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i25">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-core-localization-l1-2-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i26">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-core-memory-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i27">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-core-namedpipe-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i28">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-core-processenvironment-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i29">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-core-processthreads-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i30">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-core-processthreads-l1-1-1.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i31">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-core-profile-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i32">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-core-rtlsupport-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i33">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-core-string-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i34">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-core-synch-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i35">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-core-synch-l1-2-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i36">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-core-sysinfo-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i37">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-core-timezone-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i38">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-core-util-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i39">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-crt-conio-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i40">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-crt-convert-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i41">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-crt-environment-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i42">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-crt-filesystem-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i43">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-crt-heap-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i44">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-crt-locale-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i45">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-crt-math-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i46">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-crt-process-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i47">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-crt-runtime-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i48">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-crt-stdio-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i49">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-crt-string-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i50">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-crt-time-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i51">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\api-ms-win-crt-utility-l1-1-0.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i52">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\base_library.zip</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i53">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\google\_upb\_message.cp39-win_amd64.pyd</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i54">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\grpc\_cython\_credentials\roots.pem</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i55">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\grpc\_cython\cygrpc.cp39-win_amd64.pyd</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i56">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\importlib_metadata-7.0.1.dist-info\INSTALLER</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i57">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\importlib_metadata-7.0.1.dist-info\LICENSE</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i58">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\importlib_metadata-7.0.1.dist-info\METADATA</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i59">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\importlib_metadata-7.0.1.dist-info\RECORD</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i60">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\importlib_metadata-7.0.1.dist-info\top_level.txt</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i61">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\importlib_metadata-7.0.1.dist-info\WHEEL</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i62">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\libcrypto-1_1.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i63">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\libffi-7.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i64">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\libssl-1_1.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i65">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\pyexpat.pyd</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i66">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\python39.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i67">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\pywin32_system32\pywintypes39.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i68">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\select.pyd</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i69">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\singlePointVoltage.exe</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i70">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\singlePointVoltage.measui</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i71">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\singlePointVoltage.serviceconfig</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i72">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\ucrtbase.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i73">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\unicodedata.pyd</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i74">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\VCRUNTIME140.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i75">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\VCRUNTIME140_1.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i76">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\win32\win32file.pyd</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i77">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\google\_upb</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i53" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i78">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\grpc\_cython\_credentials</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i54" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i79">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\pywin32_system32</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i67" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i80">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\win32</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i76" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i81">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\importlib_metadata-7.0.1.dist-info</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i56" />
+                <SourceItem z:Ref="i57" />
+                <SourceItem z:Ref="i58" />
+                <SourceItem z:Ref="i59" />
+                <SourceItem z:Ref="i60" />
+                <SourceItem z:Ref="i61" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i82">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\google</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i77" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i83">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\grpc\_cython</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i55" />
+                <SourceItem z:Ref="i78" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i84">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage\grpc</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i83" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i85">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist\singlePointVoltage</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i52" />
+                <SourceItem z:Ref="i62" />
+                <SourceItem z:Ref="i63" />
+                <SourceItem z:Ref="i64" />
+                <SourceItem z:Ref="i65" />
+                <SourceItem z:Ref="i66" />
+                <SourceItem z:Ref="i68" />
+                <SourceItem z:Ref="i69" />
+                <SourceItem z:Ref="i70" />
+                <SourceItem z:Ref="i71" />
+                <SourceItem z:Ref="i73" />
+                <SourceItem z:Ref="i2" />
+                <SourceItem z:Ref="i3" />
+                <SourceItem z:Ref="i4" />
+                <SourceItem z:Ref="i5" />
+                <SourceItem z:Ref="i6" />
+                <SourceItem z:Ref="i7" />
+                <SourceItem z:Ref="i8" />
+                <SourceItem z:Ref="i9" />
+                <SourceItem z:Ref="i10" />
+                <SourceItem z:Ref="i11" />
+                <SourceItem z:Ref="i12" />
+                <SourceItem z:Ref="i13" />
+                <SourceItem z:Ref="i82" />
+                <SourceItem z:Ref="i84" />
+                <SourceItem z:Ref="i81" />
+                <SourceItem z:Ref="i79" />
+                <SourceItem z:Ref="i80" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i86">
+            <PluginConfigurationOptions />
+            <RelativePath>..\pyinstaller\dist</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i85" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+    </SourceItems>
+    <InputSourceItems>
+        <SourceItem z:Ref="i86" />
+        <SourceItem z:Ref="i75" />
+        <SourceItem z:Ref="i74" />
+        <SourceItem z:Ref="i72" />
+        <SourceItem z:Ref="i66" />
+        <SourceItem z:Ref="i64" />
+        <SourceItem z:Ref="i63" />
+        <SourceItem z:Ref="i62" />
+        <SourceItem z:Ref="i51" />
+        <SourceItem z:Ref="i50" />
+        <SourceItem z:Ref="i49" />
+        <SourceItem z:Ref="i48" />
+        <SourceItem z:Ref="i47" />
+        <SourceItem z:Ref="i46" />
+        <SourceItem z:Ref="i45" />
+        <SourceItem z:Ref="i44" />
+        <SourceItem z:Ref="i43" />
+        <SourceItem z:Ref="i42" />
+        <SourceItem z:Ref="i41" />
+        <SourceItem z:Ref="i40" />
+        <SourceItem z:Ref="i39" />
+        <SourceItem z:Ref="i38" />
+        <SourceItem z:Ref="i37" />
+        <SourceItem z:Ref="i36" />
+        <SourceItem z:Ref="i35" />
+        <SourceItem z:Ref="i34" />
+        <SourceItem z:Ref="i33" />
+        <SourceItem z:Ref="i32" />
+        <SourceItem z:Ref="i31" />
+        <SourceItem z:Ref="i30" />
+        <SourceItem z:Ref="i29" />
+        <SourceItem z:Ref="i28" />
+        <SourceItem z:Ref="i27" />
+        <SourceItem z:Ref="i26" />
+        <SourceItem z:Ref="i25" />
+        <SourceItem z:Ref="i24" />
+        <SourceItem z:Ref="i23" />
+        <SourceItem z:Ref="i22" />
+        <SourceItem z:Ref="i21" />
+        <SourceItem z:Ref="i20" />
+        <SourceItem z:Ref="i19" />
+        <SourceItem z:Ref="i18" />
+        <SourceItem z:Ref="i17" />
+        <SourceItem z:Ref="i16" />
+        <SourceItem z:Ref="i15" />
+        <SourceItem z:Ref="i14" />
+    </InputSourceItems>
+    <Distributions>
+        <Distribution z:Id="i87" i:type="Package">
+            <DistributionItems>
+                <DistributionItem z:Id="i88" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments</DestinationRelativePath>
+                    <Name>National Instruments</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i89" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink</DestinationRelativePath>
+                    <Name>MeasurementLink</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i90" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services</DestinationRelativePath>
+                    <Name>Services</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i91" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\base_library.zip</DestinationRelativePath>
+                    <Name>base_library.zip</Name>
+                    <SourceItem z:Ref="i52" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i92" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage</DestinationRelativePath>
+                    <Name>singlePointVoltage</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i93" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\libcrypto-1_1.dll</DestinationRelativePath>
+                    <Name>libcrypto-1_1.dll</Name>
+                    <SourceItem z:Ref="i62" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i94" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\libffi-7.dll</DestinationRelativePath>
+                    <Name>libffi-7.dll</Name>
+                    <SourceItem z:Ref="i63" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i95" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\libssl-1_1.dll</DestinationRelativePath>
+                    <Name>libssl-1_1.dll</Name>
+                    <SourceItem z:Ref="i64" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i96" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\pyexpat.pyd</DestinationRelativePath>
+                    <Name>pyexpat.pyd</Name>
+                    <SourceItem z:Ref="i65" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i97" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\python39.dll</DestinationRelativePath>
+                    <Name>python39.dll</Name>
+                    <SourceItem z:Ref="i66" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i98" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\select.pyd</DestinationRelativePath>
+                    <Name>select.pyd</Name>
+                    <SourceItem z:Ref="i68" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i99" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\singlePointVoltage.exe</DestinationRelativePath>
+                    <Name>singlePointVoltage.exe</Name>
+                    <SourceItem z:Ref="i69" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i100" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\singlePointVoltage.measui</DestinationRelativePath>
+                    <Name>singlePointVoltage.measui</Name>
+                    <SourceItem z:Ref="i70" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i101" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\singlePointVoltage.serviceconfig</DestinationRelativePath>
+                    <Name>singlePointVoltage.serviceconfig</Name>
+                    <SourceItem z:Ref="i71" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i102" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\unicodedata.pyd</DestinationRelativePath>
+                    <Name>unicodedata.pyd</Name>
+                    <SourceItem z:Ref="i73" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i103" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\_asyncio.pyd</DestinationRelativePath>
+                    <Name>_asyncio.pyd</Name>
+                    <SourceItem z:Ref="i2" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i104" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\_bz2.pyd</DestinationRelativePath>
+                    <Name>_bz2.pyd</Name>
+                    <SourceItem z:Ref="i3" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i105" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\_ctypes.pyd</DestinationRelativePath>
+                    <Name>_ctypes.pyd</Name>
+                    <SourceItem z:Ref="i4" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i106" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\_decimal.pyd</DestinationRelativePath>
+                    <Name>_decimal.pyd</Name>
+                    <SourceItem z:Ref="i5" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i107" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\_hashlib.pyd</DestinationRelativePath>
+                    <Name>_hashlib.pyd</Name>
+                    <SourceItem z:Ref="i6" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i108" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\_lzma.pyd</DestinationRelativePath>
+                    <Name>_lzma.pyd</Name>
+                    <SourceItem z:Ref="i7" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i109" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\_multiprocessing.pyd</DestinationRelativePath>
+                    <Name>_multiprocessing.pyd</Name>
+                    <SourceItem z:Ref="i8" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i110" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\_overlapped.pyd</DestinationRelativePath>
+                    <Name>_overlapped.pyd</Name>
+                    <SourceItem z:Ref="i9" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i111" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\_queue.pyd</DestinationRelativePath>
+                    <Name>_queue.pyd</Name>
+                    <SourceItem z:Ref="i10" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i112" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\_socket.pyd</DestinationRelativePath>
+                    <Name>_socket.pyd</Name>
+                    <SourceItem z:Ref="i11" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i113" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\_ssl.pyd</DestinationRelativePath>
+                    <Name>_ssl.pyd</Name>
+                    <SourceItem z:Ref="i12" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i114" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\_uuid.pyd</DestinationRelativePath>
+                    <Name>_uuid.pyd</Name>
+                    <SourceItem z:Ref="i13" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i115" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\importlib_metadata-7.0.1.dist-info\INSTALLER</DestinationRelativePath>
+                    <Name>INSTALLER</Name>
+                    <SourceItem z:Ref="i56" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i116" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\importlib_metadata-7.0.1.dist-info</DestinationRelativePath>
+                    <Name>importlib_metadata-7.0.1.dist-info</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i117" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\importlib_metadata-7.0.1.dist-info\LICENSE</DestinationRelativePath>
+                    <Name>LICENSE</Name>
+                    <SourceItem z:Ref="i57" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i118" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\importlib_metadata-7.0.1.dist-info\METADATA</DestinationRelativePath>
+                    <Name>METADATA</Name>
+                    <SourceItem z:Ref="i58" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i119" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\importlib_metadata-7.0.1.dist-info\RECORD</DestinationRelativePath>
+                    <Name>RECORD</Name>
+                    <SourceItem z:Ref="i59" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i120" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\importlib_metadata-7.0.1.dist-info\top_level.txt</DestinationRelativePath>
+                    <Name>top_level.txt</Name>
+                    <SourceItem z:Ref="i60" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i121" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\importlib_metadata-7.0.1.dist-info\WHEEL</DestinationRelativePath>
+                    <Name>WHEEL</Name>
+                    <SourceItem z:Ref="i61" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i122" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\pywin32_system32\pywintypes39.dll</DestinationRelativePath>
+                    <Name>pywintypes39.dll</Name>
+                    <SourceItem z:Ref="i67" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i123" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\pywin32_system32</DestinationRelativePath>
+                    <Name>pywin32_system32</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i124" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\win32\win32file.pyd</DestinationRelativePath>
+                    <Name>win32file.pyd</Name>
+                    <SourceItem z:Ref="i76" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i125" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\win32</DestinationRelativePath>
+                    <Name>win32</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i126" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\google\_upb\_message.cp39-win_amd64.pyd</DestinationRelativePath>
+                    <Name>_message.cp39-win_amd64.pyd</Name>
+                    <SourceItem z:Ref="i53" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i127" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\google</DestinationRelativePath>
+                    <Name>google</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i128" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\google\_upb</DestinationRelativePath>
+                    <Name>_upb</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i129" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\grpc\_cython\cygrpc.cp39-win_amd64.pyd</DestinationRelativePath>
+                    <Name>cygrpc.cp39-win_amd64.pyd</Name>
+                    <SourceItem z:Ref="i55" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i130" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\grpc</DestinationRelativePath>
+                    <Name>grpc</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i131" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\grpc\_cython</DestinationRelativePath>
+                    <Name>_cython</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i132" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\grpc\_cython\_credentials\roots.pem</DestinationRelativePath>
+                    <Name>roots.pem</Name>
+                    <SourceItem z:Ref="i54" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i133" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\grpc\_cython\_credentials</DestinationRelativePath>
+                    <Name>_credentials</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i134" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\VCRUNTIME140_1.dll</DestinationRelativePath>
+                    <Name>VCRUNTIME140_1.dll</Name>
+                    <SourceItem z:Ref="i75" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i135" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\VCRUNTIME140.dll</DestinationRelativePath>
+                    <Name>VCRUNTIME140.dll</Name>
+                    <SourceItem z:Ref="i74" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i136" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\ucrtbase.dll</DestinationRelativePath>
+                    <Name>ucrtbase.dll</Name>
+                    <SourceItem z:Ref="i72" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i137" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-crt-utility-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-crt-utility-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i51" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i138" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-crt-time-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-crt-time-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i50" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i139" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-crt-string-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-crt-string-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i49" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i140" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-crt-stdio-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-crt-stdio-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i48" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i141" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-crt-runtime-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-crt-runtime-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i47" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i142" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-crt-process-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-crt-process-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i46" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i143" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-crt-math-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-crt-math-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i45" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i144" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-crt-locale-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-crt-locale-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i44" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i145" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-crt-heap-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-crt-heap-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i43" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i146" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-crt-filesystem-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-crt-filesystem-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i42" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i147" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-crt-environment-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-crt-environment-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i41" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i148" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-crt-convert-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-crt-convert-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i40" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i149" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-crt-conio-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-crt-conio-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i39" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i150" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-core-util-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-core-util-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i38" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i151" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-core-timezone-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-core-timezone-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i37" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i152" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-core-sysinfo-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-core-sysinfo-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i36" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i153" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-core-synch-l1-2-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-core-synch-l1-2-0.dll</Name>
+                    <SourceItem z:Ref="i35" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i154" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-core-synch-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-core-synch-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i34" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i155" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-core-string-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-core-string-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i33" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i156" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-core-rtlsupport-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-core-rtlsupport-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i32" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i157" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-core-profile-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-core-profile-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i31" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i158" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-core-processthreads-l1-1-1.dll</DestinationRelativePath>
+                    <Name>api-ms-win-core-processthreads-l1-1-1.dll</Name>
+                    <SourceItem z:Ref="i30" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i159" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-core-processthreads-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-core-processthreads-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i29" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i160" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-core-processenvironment-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-core-processenvironment-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i28" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i161" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-core-namedpipe-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-core-namedpipe-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i27" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i162" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-core-memory-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-core-memory-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i26" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i163" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-core-localization-l1-2-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-core-localization-l1-2-0.dll</Name>
+                    <SourceItem z:Ref="i25" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i164" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-core-libraryloader-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-core-libraryloader-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i24" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i165" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-core-interlocked-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-core-interlocked-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i23" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i166" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-core-heap-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-core-heap-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i22" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i167" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-core-handle-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-core-handle-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i21" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i168" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-core-file-l2-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-core-file-l2-1-0.dll</Name>
+                    <SourceItem z:Ref="i20" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i169" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-core-file-l1-2-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-core-file-l1-2-0.dll</Name>
+                    <SourceItem z:Ref="i19" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i170" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-core-file-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-core-file-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i18" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i171" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-core-errorhandling-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-core-errorhandling-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i17" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i172" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-core-debug-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-core-debug-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i16" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i173" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-core-datetime-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-core-datetime-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i15" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i174" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\singlePointVoltage\api-ms-win-core-console-l1-1-0.dll</DestinationRelativePath>
+                    <Name>api-ms-win-core-console-l1-1-0.dll</Name>
+                    <SourceItem z:Ref="i14" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+            </DistributionItems>
+            <Name>Single Point Voltage NI-DMM MeasurementLink Plug-In</Name>
+            <OutputDirectory>Packages</OutputDirectory>
+            <PluginConfigurationOptions />
+            <PrebuildAnalysisEnabled>true</PrebuildAnalysisEnabled>
+            <Architecture>windows_x64</Architecture>
+            <AutoIncrementVersion>Build</AutoIncrementVersion>
+            <BuildStatus z:Id="i175">
+                <BuildEverSuccessful>true</BuildEverSuccessful>
+                <FileName>community-singlepointvoltagenidmm_1.0.0.0_windows_x64.nipkg</FileName>
+                <Version>1.0.0.0</Version>
+            </BuildStatus>
+            <CompanyName>MyCompany</CompanyName>
+            <CustomExecutes />
+            <Description>Voltage measurement for NI-DMM using MeasurementLink</Description>
+            <DisplayName>Single Point Voltage NI-DMM MeasurementLink Plug-In</DisplayName>
+            <FileName>community-singlepointvoltagenidmm_1.0.0.1_windows_x64.nipkg</FileName>
+            <Homepage>https://github.com/NI-MeasurementLink-Plug-Ins</Homepage>
+            <MaintainerEmail>email@mycompany.com</MaintainerEmail>
+            <MaintainerName>Github Community</MaintainerName>
+            <Messages xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+            <PackageName>community-singlepointvoltagenidmm</PackageName>
+            <PackageRelationships />
+            <ProductName>MyProduct</ProductName>
+            <Section>Add-Ons</Section>
+            <StoreProduct>true</StoreProduct>
+            <Synopsis>community-singlepointvoltagenidmm</Synopsis>
+            <Version>1.0.0.1</Version>
+        </Distribution>
+    </Distributions>
+    <Feeds />
+    <DistributionGroups>
+        <DistributionGroup z:Id="i176">
+            <Distributions>
+                <Distribution z:Ref="i87" />
+            </Distributions>
+            <Name>Distribution Group</Name>
+            <PrebuildAnalysisEnabled>true</PrebuildAnalysisEnabled>
+            <StageDirectory>ProcessingStage</StageDirectory>
+        </DistributionGroup>
+    </DistributionGroups>
+    <TestStandMode>true</TestStandMode>
+    <PluginConfigurationOptions />
+</Solution>

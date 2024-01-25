@@ -1,0 +1,20 @@
+# Distribution / packaging
+dist/
+temp/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+*.manifest
+*.spec
+
+#InstrumentStudio
+*.[Cc]ache/
+
+#Package builder
+[Pp]ackages/
+ProcessingStage/
+package/log-ClassDAmplifier.txt
