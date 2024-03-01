@@ -24,3 +24,9 @@ jobs:
       with:
         poetry-version: 1.8.1
     - run: poetry --version
+    - name: Install Poetry Dependencies
+      run: |
+        cd source
+        poetry install
+    - name: Lint with ni-python-styleguide
+      run: poetry run ni-python-styleguide lint
