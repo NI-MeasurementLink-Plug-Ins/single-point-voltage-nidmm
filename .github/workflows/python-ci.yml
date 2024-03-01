@@ -1,0 +1,26 @@
+# This workflow will setup python, poetry, and return the poetry version as a check.
+
+name: Install Poetry and Test Version
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+
+    runs-on: windows-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.10"
+    - name: Setup Poetry
+      uses: Gr1N/setup-poetry@v9
+      with:
+        poetry-version: 1.8.1
+    - run: poetry --version
